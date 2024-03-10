@@ -19,8 +19,6 @@ body {
   right: 10px;
 }
 
-/* Enable darkmode in a Bootstrap Page */
-
 h1 {
   font-size: 2.5rem;
   text-align: center;
@@ -204,7 +202,7 @@ p {
   border-radius: 10px;
   padding: 10px;
   transition: 0.3s;
-  height: 600px;
+  height: 625px;
 }
 
 .card:hover {
@@ -380,9 +378,6 @@ textarea {
   content: "";
 }
 
-/* achievement-contact ends here  */
-
-/* footer starts from here  */
 .footer {
   background-color: black;
   color: white;
@@ -407,8 +402,6 @@ textarea {
   clear: both;
 }
 
-/* footer ends here  */
-
 .img {
   width: 75px;
   height: 75px;
@@ -431,5 +424,3 @@ textarea {
 .ct {
   color: #052d2f;
 }
-
-
